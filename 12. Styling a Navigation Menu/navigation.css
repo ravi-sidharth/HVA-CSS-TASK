@@ -1,0 +1,35 @@
+nav {
+background-color:blue;
+padding:20px;
+}
+
+ul li {
+list-style:none;
+text-decoration:none;
+}
+
+#home {
+color:black;
+background-color:red;
+}
+
+li::before {
+content:"❤️";
+color:green;
+margin:2px;
+}
+
+ul>li {
+background-color:aqua;
+}
+
+
+This is doubt of
+adjacent selector 
+
+
+
+#list1 + #list2 {
+background-color:yellow;
+}
+

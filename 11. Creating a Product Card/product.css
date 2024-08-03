@@ -1,0 +1,34 @@
+.product-card h1 {
+	color:blue;
+}
+
+.product-card p {
+	color:red;
+}
+
+
+button {
+background-color:blue;
+color:red;
+padding:10px;
+font-weight:700;
+}
+
+.blue:hover {
+background-color:yellow;
+}
+
+.grey:hover {
+background-color:grey;
+}
+
+.pink:hover {
+background-color:pink;
+}
+
+.green:hover {
+background-color:green;
+font-size:2rem;
+}
+
+

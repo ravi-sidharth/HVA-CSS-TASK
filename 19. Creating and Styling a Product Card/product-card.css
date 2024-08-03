@@ -1,0 +1,29 @@
+.product-card {
+	border:2px solid #333;
+	padding:20px;
+	margin:20px auto;
+	width:300px;
+	box-sizing:border-box;
+	height:auto;
+	font-family:Arial,sans-serif;
+	background-color:lightgray;
+}
+
+div>img+h2+p {
+	padding:10px;
+	}
+
+h2 {
+	font-size:16px;
+	line-height:1.5;
+	}
+span {
+	font-size:20px;
+	color:#ff0000;
+	}
+	
+button {
+	padding:5px;
+	border:1px solid black;
+	background-color:aqua;
+	}

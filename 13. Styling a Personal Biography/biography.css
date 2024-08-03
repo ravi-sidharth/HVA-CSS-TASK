@@ -1,0 +1,19 @@
+h1 {
+	color:blue;
+	}
+
+body {
+	background-color:aqua;
+	}
+	
+p {
+	font-family:Arial;
+	font-size:16px;
+	}
+	
+h1+p+p {
+	font-weight:bold;
+	font-style:italic;
+	}
+
+

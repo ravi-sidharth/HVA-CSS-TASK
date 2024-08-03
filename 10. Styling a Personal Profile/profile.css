@@ -1,0 +1,19 @@
+h1 {
+font-size:2rem;
+color:red;
+}
+
+p {
+font-size:1.2rem;
+line-height:2rem;
+}
+
+.about-me {
+padding:10px;
+background-color:green;
+}
+
+#profile-pic {
+max-width:200px;
+border-radius:50px;
+}
