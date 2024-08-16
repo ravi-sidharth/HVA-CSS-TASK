@@ -1,0 +1,32 @@
+* {
+	font-family: Georgia,serif;
+}
+
+h1 {
+	color: blue;
+	font-size: 28px;
+	font-weight: bold;
+	
+}
+
+
+.article-container {
+	background-color: aqua;
+	text-align: justify;
+	padding: 5px;
+}
+
+.article-meta {
+	color: gray;
+	font-size: 14px;
+	font-weight: normal;
+	font-style: italic;
+	text-decoration: none;
+}
+	
+p {
+	font-size:18px;
+	line-height: 1.6;
+}
+
+
