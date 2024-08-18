@@ -1,0 +1,56 @@
+.block-element-default , .block-element-fixed {
+    display: block;
+    border: 2px solid #333;
+    padding: 10px;
+}
+
+.block-element-fixed {
+   width: 300px;  /* width doesn't work in inline element */
+}
+
+.inline-element-default , .inline-element-fixed {
+    display: inline;
+    border: 1px dashed #007BFF;
+    padding: 5px;
+
+}
+
+.inline-element-fixed {
+    width: 100px;
+}
+
+
+.inline-block-element-default , .inline-block-element-fixed {
+    display: inline-block;
+    border: 1px solid #FF5733;
+    padding: 5px;
+}
+
+.inline-block-element-fixed {
+    width:150px ;
+}
+
+.block-element-default {
+    width: 100%;
+}
+
+.block-element-fixed {
+    width: 300px;
+}
+
+.inline-element-default {
+    width: auto;
+}
+
+
+.inline-element-fixed {
+    width:200px;  /* width doesn't work in inline element  */
+}
+
+.inline-block-element-default {
+    width: auto;
+}
+
+.inline-block-element-fixed {
+    width: 150px;
+}

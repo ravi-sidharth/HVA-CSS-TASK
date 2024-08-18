@@ -1,0 +1,26 @@
+.block-element {
+    display: block;
+    border: 2px solid #333;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.inline-element {
+    display: inline;
+    border: 1px dashed #007BFF;
+    padding: 5px;
+    /* height: 500px;    Width and height is not work in inline element */
+
+}
+
+
+.inline-block-element {
+    display: inline-block;
+    border: 1px solid #FF5733;
+    padding: 5px;
+    width: 100px;
+}
+
+.none-element {
+    display: none;
+}
