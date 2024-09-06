@@ -44,7 +44,7 @@
 
 
 .inline-element-fixed {
-    width:200px;  /* width doesn't work in inline element  */
+    width:400px;  /* width doesn't work in inline element */
 }
 
 .inline-block-element-default {
