@@ -9,5 +9,5 @@
 .second-paragraph {
     /* clear: left; */
     /* clear: right; */
-    /* clear:both; */
+    clear:both;
 }
