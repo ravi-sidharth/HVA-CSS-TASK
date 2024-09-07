@@ -1,0 +1,35 @@
+.container {
+    max-width: 1200px;
+    margin:auto;
+}
+
+.box {
+    background-color: #c3dbeb;
+    text-align: center;
+    border: 2px solid #608BA8;
+    margin-top: 20px;
+    width: 300px;
+    height: 200px;
+    line-height: 200px;
+}
+
+@media(max-width:768px) {
+    
+    .box {
+        background-color: #ffcccb;
+        width: 50%;
+
+    }
+}
+
+@media(max-width:480px) {
+    
+    .box {
+        background-color: #90ee90;
+        border-radius: 15px;
+    }
+
+    h1 {
+        font-size: 18px;
+    }
+}
